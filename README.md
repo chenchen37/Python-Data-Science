@@ -44,14 +44,23 @@
 * 探討變數之間的關係
 * 從資料中生成特徵
 * 從資料中選取好的特徵
-## Project 1
-* A/B test analysis
-* 電商如何以A/B Test 驗證新網頁設計有效
-## Project 2
-* A/B test analysis
-## Project 3
-* Actual Price Registration of Real Estate Analysis
-## Project 4
+## Project 1 - Use A/B test to evaluate the effect of the new E-commerce website
+* 了解Binomial分布，以及用常態分布求統計解的方法
+* 判讀 A/B Test 結果
+* 如何決定最小樣本數
+* 如何以z-score, p-value, 信賴區間判斷 A/B Test 結果是否顯著
+## Project 2 - Use A/B test to evaluate the eeffect of the new Udacity website
+* 決定最小樣本數
+* 開發自定義新賴區間函數
+## Project 3 - Actual Price Registration of Real Estate Analysis
+* 串接不同地區不動產資料
+* 資料清洗、過濾
+* 建立自訂義特徵加入分析
+* 找出與實價登錄總價高度相關變數
+* 視覺化分析
+## Project 4 - COVID19 Analysis
 * COVID19 Analysis
-## Project 5
-* NETFLIX Analysis
+## Project 5 - Netflix Analysis
+* 資料清洗
+* 建立自訂義特徵加入分析
+* 視覺化分析
